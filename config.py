@@ -5,7 +5,6 @@ ADMIN_ID = int(os.getenv("ADMIN_ID", "0"))
 
 WELCOME_TEXT = (
     "👋 Hello {name} and welcome to the Bot!\n\n"
-    "🛠️ Created by <b>Rivo Bots</b>\n"
-    "🔗 Channel: <a href='https://t.me/RivoBots'>@RivoBots</a>\n\n"
-    "⬇️ Write a message here and you’ll receive a reply as soon as possible."
+    "Created By <a href='https://t.me/RivoBots'>RivoBots</a>\n\n"
+    "⬇️ <u>Write a message here</u> and you’ll receive a reply as soon as possible."
 )
